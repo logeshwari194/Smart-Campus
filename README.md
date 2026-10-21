@@ -194,6 +194,7 @@ flutter test
 
 - GitHub Profile: https://github.com/logeshwaris19
 - Project Repository: https://github.com/logeshwaris19/Smart-Campus
+- Hosting URL: https://smart-campus-web-d8d83.web.app
 
 ## 🤝 Contributions
 
